@@ -7,5 +7,5 @@ git commit -m "mensagem"
 git push origin main
 
 Atalhos de teclado:
-Copiar: Ctrl + Insert
-Colar: Shift + Insert
+Copiar: Ctrl + Insert  
+Colar: Shift + Insert  
